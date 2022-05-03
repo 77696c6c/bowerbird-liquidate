@@ -1,0 +1,6 @@
+{
+ "rpcNodeUrl": "http://localhost:50012",
+ "lrbScriptHash": "0xc11dd647bc9e3edb90d7db579950013fe86b3aa4",
+ "usdlScriptHash": "0xa37a24515abeb072ba972e6631cabf4e247f4970",
+ "aviaryScriptHash": "0xc6e3690367047272ea483bbf4274df362bf3eb91"
+}

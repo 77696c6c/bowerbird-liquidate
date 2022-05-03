@@ -1,0 +1,6 @@
+{
+  "rpcNodeUrl": "https://lyrebird.finance/node",
+  "wsNodeUrl": "wss://lyrebird.finance/ws",
+  "networkMagic": 860833102,
+  "dryRun": true
+}
